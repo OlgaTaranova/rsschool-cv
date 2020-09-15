@@ -1,2 +1,2 @@
 # rsschool-cv
-Git &amp; Markdown task
+https://olgataranova.github.io/rsschool-cv/cv
